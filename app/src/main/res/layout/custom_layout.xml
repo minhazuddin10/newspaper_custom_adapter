@@ -1,0 +1,62 @@
+<?xml version="1.0" encoding="utf-8"?>
+<LinearLayout xmlns:android="http://schemas.android.com/apk/res/android"
+    android:orientation="vertical"
+    android:layout_width="match_parent"
+    android:layout_height="match_parent">
+
+
+
+        <LinearLayout
+            android:layout_width="match_parent"
+            android:layout_height="wrap_content"
+            android:orientation="horizontal"
+            android:layout_weight="2">
+           <LinearLayout
+               android:layout_width="match_parent"
+               android:layout_height="wrap_content"
+               android:layout_weight="1">
+
+               <ImageView
+                   android:id="@+id/imageViewID"
+                   android:layout_width="250dp"
+                   android:layout_height="100dp"
+                   android:layout_margin="10dp"
+                   android:layout_marginRight="80dp"
+                   android:src="@drawable/afganistan"
+                   android:layout_weight="1">
+
+               </ImageView>
+
+            <LinearLayout
+                android:layout_width="match_parent"
+                android:layout_height="wrap_content"
+                android:orientation="vertical"
+                android:layout_marginTop="30dp"
+                android:layout_marginStart="15dp"
+                android:layout_weight="1">
+
+                <TextView
+                    android:id="@+id/TitleID"
+                    android:layout_width="match_parent"
+                    android:layout_height="wrap_content"
+                    android:text="Afganistan"
+                    android:textStyle="bold"
+                    android:textAllCaps="true"
+                    android:textSize="30sp">
+
+                </TextView>
+                <TextView
+                    android:id="@+id/descriptionID"
+                    android:layout_width="match_parent"
+                    android:layout_height="wrap_content"
+                    android:text="Click Here">
+
+                </TextView>
+            </LinearLayout>
+
+            </LinearLayout>
+
+        </LinearLayout>
+
+
+</LinearLayout>
