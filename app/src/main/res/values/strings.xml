@@ -1,3 +1,361 @@
 <resources>
     <string name="app_name">newspaper_custom_adapter</string>
+
+    <string-array name="details">
+
+        <item>
+            Our country, a vast and diverse land, is a true marvel.
+            Geographically, it spans from the northern Himalayas,
+            where pristine snow-capped peaks touch the sky, to the
+            southern coastal regions, blessed with serene beaches and lush greenery.
+            Our country boasts a remarkable range of climates,
+            from the arid deserts of Rajasthan to the verdant rainforests of Kerala.
+            But what truly defines our country is its people. We are a nation of diversity,
+            with hundreds of languages, religions, and traditions.
+            This rich tapestry of cultures and customs is our source of strength,
+            and it reflects the unity that underlies our diversity.
+            Our festivals, such as Diwali, Eid, Christmas, and Holi,
+            are a testament to our collective spirit of celebration and togetherness.
+            They bring us closer, transcending boundaries and differences.
+            Our country’s history is a story of courage and resilience.
+            The struggle for independence,
+            led by visionary leaders like Mahatma Gandhi and Jawaharlal Nehru,
+            paved the way for our nation’s freedom. Today, we uphold the values of democracy, e
+            quality, and justice that form the core of our identity. In every region of our country,
+            there is a unique cultural heritage waiting to be discovered. Our cuisine,
+            diverse and flavorful, reflects our culinary prowess,
+            from spicy curries in the south to delectable chaats in the north.
+            Our country is not merely a place on the map; it’s a feeling,
+            a shared heritage, and a collective dream that unites us all.
+            It’s a reminder that in our diversity, we find our strength,
+            and in our unity, we find our identity.
+        </item>
+        <item>
+            Our country, a vast and diverse land, is a true marvel.
+            Geographically, it spans from the northern Himalayas,
+            where pristine snow-capped peaks touch the sky, to the
+            southern coastal regions, blessed with serene beaches and lush greenery.
+            Our country boasts a remarkable range of climates,
+            from the arid deserts of Rajasthan to the verdant rainforests of Kerala.
+            But what truly defines our country is its people. We are a nation of diversity,
+            with hundreds of languages, religions, and traditions.
+            This rich tapestry of cultures and customs is our source of strength,
+            and it reflects the unity that underlies our diversity.
+            Our festivals, such as Diwali, Eid, Christmas, and Holi,
+            are a testament to our collective spirit of celebration and togetherness.
+            They bring us closer, transcending boundaries and differences.
+            Our country’s history is a story of courage and resilience.
+            The struggle for independence,
+            led by visionary leaders like Mahatma Gandhi and Jawaharlal Nehru,
+            paved the way for our nation’s freedom. Today, we uphold the values of democracy, e
+            quality, and justice that form the core of our identity. In every region of our country,
+            there is a unique cultural heritage waiting to be discovered. Our cuisine,
+            diverse and flavorful, reflects our culinary prowess,
+            from spicy curries in the south to delectable chaats in the north.
+            Our country is not merely a place on the map; it’s a feeling,
+            a shared heritage, and a collective dream that unites us all.
+            It’s a reminder that in our diversity, we find our strength,
+            and in our unity, we find our identity.
+        </item>
+        <item>
+            Our country, a vast and diverse land, is a true marvel.
+            Geographically, it spans from the northern Himalayas,
+            where pristine snow-capped peaks touch the sky, to the
+            southern coastal regions, blessed with serene beaches and lush greenery.
+            Our country boasts a remarkable range of climates,
+            from the arid deserts of Rajasthan to the verdant rainforests of Kerala.
+            But what truly defines our country is its people. We are a nation of diversity,
+            with hundreds of languages, religions, and traditions.
+            This rich tapestry of cultures and customs is our source of strength,
+            and it reflects the unity that underlies our diversity.
+            Our festivals, such as Diwali, Eid, Christmas, and Holi,
+            are a testament to our collective spirit of celebration and togetherness.
+            They bring us closer, transcending boundaries and differences.
+            Our country’s history is a story of courage and resilience.
+            The struggle for independence,
+            led by visionary leaders like Mahatma Gandhi and Jawaharlal Nehru,
+            paved the way for our nation’s freedom. Today, we uphold the values of democracy, e
+            quality, and justice that form the core of our identity. In every region of our country,
+            there is a unique cultural heritage waiting to be discovered. Our cuisine,
+            diverse and flavorful, reflects our culinary prowess,
+            from spicy curries in the south to delectable chaats in the north.
+            Our country is not merely a place on the map; it’s a feeling,
+            a shared heritage, and a collective dream that unites us all.
+            It’s a reminder that in our diversity, we find our strength,
+            and in our unity, we find our identity.
+        </item>
+        <item>
+            Our country, a vast and diverse land, is a true marvel.
+            Geographically, it spans from the northern Himalayas,
+            where pristine snow-capped peaks touch the sky, to the
+            southern coastal regions, blessed with serene beaches and lush greenery.
+            Our country boasts a remarkable range of climates,
+            from the arid deserts of Rajasthan to the verdant rainforests of Kerala.
+            But what truly defines our country is its people. We are a nation of diversity,
+            with hundreds of languages, religions, and traditions.
+            This rich tapestry of cultures and customs is our source of strength,
+            and it reflects the unity that underlies our diversity.
+            Our festivals, such as Diwali, Eid, Christmas, and Holi,
+            are a testament to our collective spirit of celebration and togetherness.
+            They bring us closer, transcending boundaries and differences.
+            Our country’s history is a story of courage and resilience.
+            The struggle for independence,
+            led by visionary leaders like Mahatma Gandhi and Jawaharlal Nehru,
+            paved the way for our nation’s freedom. Today, we uphold the values of democracy, e
+            quality, and justice that form the core of our identity. In every region of our country,
+            there is a unique cultural heritage waiting to be discovered. Our cuisine,
+            diverse and flavorful, reflects our culinary prowess,
+            from spicy curries in the south to delectable chaats in the north.
+            Our country is not merely a place on the map; it’s a feeling,
+            a shared heritage, and a collective dream that unites us all.
+            It’s a reminder that in our diversity, we find our strength,
+            and in our unity, we find our identity.
+        </item>
+        <item>
+            Our country, a vast and diverse land, is a true marvel.
+            Geographically, it spans from the northern Himalayas,
+            where pristine snow-capped peaks touch the sky, to the
+            southern coastal regions, blessed with serene beaches and lush greenery.
+            Our country boasts a remarkable range of climates,
+            from the arid deserts of Rajasthan to the verdant rainforests of Kerala.
+            But what truly defines our country is its people. We are a nation of diversity,
+            with hundreds of languages, religions, and traditions.
+            This rich tapestry of cultures and customs is our source of strength,
+            and it reflects the unity that underlies our diversity.
+            Our festivals, such as Diwali, Eid, Christmas, and Holi,
+            are a testament to our collective spirit of celebration and togetherness.
+            They bring us closer, transcending boundaries and differences.
+            Our country’s history is a story of courage and resilience.
+            The struggle for independence,
+            led by visionary leaders like Mahatma Gandhi and Jawaharlal Nehru,
+            paved the way for our nation’s freedom. Today, we uphold the values of democracy, e
+            quality, and justice that form the core of our identity. In every region of our country,
+            there is a unique cultural heritage waiting to be discovered. Our cuisine,
+            diverse and flavorful, reflects our culinary prowess,
+            from spicy curries in the south to delectable chaats in the north.
+            Our country is not merely a place on the map; it’s a feeling,
+            a shared heritage, and a collective dream that unites us all.
+            It’s a reminder that in our diversity, we find our strength,
+            and in our unity, we find our identity.
+        </item>
+        <item>
+            Our country, a vast and diverse land, is a true marvel.
+            Geographically, it spans from the northern Himalayas,
+            where pristine snow-capped peaks touch the sky, to the
+            southern coastal regions, blessed with serene beaches and lush greenery.
+            Our country boasts a remarkable range of climates,
+            from the arid deserts of Rajasthan to the verdant rainforests of Kerala.
+            But what truly defines our country is its people. We are a nation of diversity,
+            with hundreds of languages, religions, and traditions.
+            This rich tapestry of cultures and customs is our source of strength,
+            and it reflects the unity that underlies our diversity.
+            Our festivals, such as Diwali, Eid, Christmas, and Holi,
+            are a testament to our collective spirit of celebration and togetherness.
+            They bring us closer, transcending boundaries and differences.
+            Our country’s history is a story of courage and resilience.
+            The struggle for independence,
+            led by visionary leaders like Mahatma Gandhi and Jawaharlal Nehru,
+            paved the way for our nation’s freedom. Today, we uphold the values of democracy, e
+            quality, and justice that form the core of our identity. In every region of our country,
+            there is a unique cultural heritage waiting to be discovered. Our cuisine,
+            diverse and flavorful, reflects our culinary prowess,
+            from spicy curries in the south to delectable chaats in the north.
+            Our country is not merely a place on the map; it’s a feeling,
+            a shared heritage, and a collective dream that unites us all.
+            It’s a reminder that in our diversity, we find our strength,
+            and in our unity, we find our identity.
+        </item>
+        <item>
+            Our country, a vast and diverse land, is a true marvel.
+            Geographically, it spans from the northern Himalayas,
+            where pristine snow-capped peaks touch the sky, to the
+            southern coastal regions, blessed with serene beaches and lush greenery.
+            Our country boasts a remarkable range of climates,
+            from the arid deserts of Rajasthan to the verdant rainforests of Kerala.
+            But what truly defines our country is its people. We are a nation of diversity,
+            with hundreds of languages, religions, and traditions.
+            This rich tapestry of cultures and customs is our source of strength,
+            and it reflects the unity that underlies our diversity.
+            Our festivals, such as Diwali, Eid, Christmas, and Holi,
+            are a testament to our collective spirit of celebration and togetherness.
+            They bring us closer, transcending boundaries and differences.
+            Our country’s history is a story of courage and resilience.
+            The struggle for independence,
+            led by visionary leaders like Mahatma Gandhi and Jawaharlal Nehru,
+            paved the way for our nation’s freedom. Today, we uphold the values of democracy, e
+            quality, and justice that form the core of our identity. In every region of our country,
+            there is a unique cultural heritage waiting to be discovered. Our cuisine,
+            diverse and flavorful, reflects our culinary prowess,
+            from spicy curries in the south to delectable chaats in the north.
+            Our country is not merely a place on the map; it’s a feeling,
+            a shared heritage, and a collective dream that unites us all.
+            It’s a reminder that in our diversity, we find our strength,
+            and in our unity, we find our identity.
+        </item>
+        <item>
+            Our country, a vast and diverse land, is a true marvel.
+            Geographically, it spans from the northern Himalayas,
+            where pristine snow-capped peaks touch the sky, to the
+            southern coastal regions, blessed with serene beaches and lush greenery.
+            Our country boasts a remarkable range of climates,
+            from the arid deserts of Rajasthan to the verdant rainforests of Kerala.
+            But what truly defines our country is its people. We are a nation of diversity,
+            with hundreds of languages, religions, and traditions.
+            This rich tapestry of cultures and customs is our source of strength,
+            and it reflects the unity that underlies our diversity.
+            Our festivals, such as Diwali, Eid, Christmas, and Holi,
+            are a testament to our collective spirit of celebration and togetherness.
+            They bring us closer, transcending boundaries and differences.
+            Our country’s history is a story of courage and resilience.
+            The struggle for independence,
+            led by visionary leaders like Mahatma Gandhi and Jawaharlal Nehru,
+            paved the way for our nation’s freedom. Today, we uphold the values of democracy, e
+            quality, and justice that form the core of our identity. In every region of our country,
+            there is a unique cultural heritage waiting to be discovered. Our cuisine,
+            diverse and flavorful, reflects our culinary prowess,
+            from spicy curries in the south to delectable chaats in the north.
+            Our country is not merely a place on the map; it’s a feeling,
+            a shared heritage, and a collective dream that unites us all.
+            It’s a reminder that in our diversity, we find our strength,
+            and in our unity, we find our identity.
+        </item>
+        <item>
+            Our country, a vast and diverse land, is a true marvel.
+            Geographically, it spans from the northern Himalayas,
+            where pristine snow-capped peaks touch the sky, to the
+            southern coastal regions, blessed with serene beaches and lush greenery.
+            Our country boasts a remarkable range of climates,
+            from the arid deserts of Rajasthan to the verdant rainforests of Kerala.
+            But what truly defines our country is its people. We are a nation of diversity,
+            with hundreds of languages, religions, and traditions.
+            This rich tapestry of cultures and customs is our source of strength,
+            and it reflects the unity that underlies our diversity.
+            Our festivals, such as Diwali, Eid, Christmas, and Holi,
+            are a testament to our collective spirit of celebration and togetherness.
+            They bring us closer, transcending boundaries and differences.
+            Our country’s history is a story of courage and resilience.
+            The struggle for independence,
+            led by visionary leaders like Mahatma Gandhi and Jawaharlal Nehru,
+            paved the way for our nation’s freedom. Today, we uphold the values of democracy, e
+            quality, and justice that form the core of our identity. In every region of our country,
+            there is a unique cultural heritage waiting to be discovered. Our cuisine,
+            diverse and flavorful, reflects our culinary prowess,
+            from spicy curries in the south to delectable chaats in the north.
+            Our country is not merely a place on the map; it’s a feeling,
+            a shared heritage, and a collective dream that unites us all.
+            It’s a reminder that in our diversity, we find our strength,
+            and in our unity, we find our identity.
+        </item>
+        <item>
+            Our country, a vast and diverse land, is a true marvel.
+            Geographically, it spans from the northern Himalayas,
+            where pristine snow-capped peaks touch the sky, to the
+            southern coastal regions, blessed with serene beaches and lush greenery.
+            Our country boasts a remarkable range of climates,
+            from the arid deserts of Rajasthan to the verdant rainforests of Kerala.
+            But what truly defines our country is its people. We are a nation of diversity,
+            with hundreds of languages, religions, and traditions.
+            This rich tapestry of cultures and customs is our source of strength,
+            and it reflects the unity that underlies our diversity.
+            Our festivals, such as Diwali, Eid, Christmas, and Holi,
+            are a testament to our collective spirit of celebration and togetherness.
+            They bring us closer, transcending boundaries and differences.
+            Our country’s history is a story of courage and resilience.
+            The struggle for independence,
+            led by visionary leaders like Mahatma Gandhi and Jawaharlal Nehru,
+            paved the way for our nation’s freedom. Today, we uphold the values of democracy, e
+            quality, and justice that form the core of our identity. In every region of our country,
+            there is a unique cultural heritage waiting to be discovered. Our cuisine,
+            diverse and flavorful, reflects our culinary prowess,
+            from spicy curries in the south to delectable chaats in the north.
+            Our country is not merely a place on the map; it’s a feeling,
+            a shared heritage, and a collective dream that unites us all.
+            It’s a reminder that in our diversity, we find our strength,
+            and in our unity, we find our identity.
+        </item>
+        <item>
+            Our country, a vast and diverse land, is a true marvel.
+            Geographically, it spans from the northern Himalayas,
+            where pristine snow-capped peaks touch the sky, to the
+            southern coastal regions, blessed with serene beaches and lush greenery.
+            Our country boasts a remarkable range of climates,
+            from the arid deserts of Rajasthan to the verdant rainforests of Kerala.
+            But what truly defines our country is its people. We are a nation of diversity,
+            with hundreds of languages, religions, and traditions.
+            This rich tapestry of cultures and customs is our source of strength,
+            and it reflects the unity that underlies our diversity.
+            Our festivals, such as Diwali, Eid, Christmas, and Holi,
+            are a testament to our collective spirit of celebration and togetherness.
+            They bring us closer, transcending boundaries and differences.
+            Our country’s history is a story of courage and resilience.
+            The struggle for independence,
+            led by visionary leaders like Mahatma Gandhi and Jawaharlal Nehru,
+            paved the way for our nation’s freedom. Today, we uphold the values of democracy, e
+            quality, and justice that form the core of our identity. In every region of our country,
+            there is a unique cultural heritage waiting to be discovered. Our cuisine,
+            diverse and flavorful, reflects our culinary prowess,
+            from spicy curries in the south to delectable chaats in the north.
+            Our country is not merely a place on the map; it’s a feeling,
+            a shared heritage, and a collective dream that unites us all.
+            It’s a reminder that in our diversity, we find our strength,
+            and in our unity, we find our identity.
+        </item>
+        <item>
+            Our country, a vast and diverse land, is a true marvel.
+            Geographically, it spans from the northern Himalayas,
+            where pristine snow-capped peaks touch the sky, to the
+            southern coastal regions, blessed with serene beaches and lush greenery.
+            Our country boasts a remarkable range of climates,
+            from the arid deserts of Rajasthan to the verdant rainforests of Kerala.
+            But what truly defines our country is its people. We are a nation of diversity,
+            with hundreds of languages, religions, and traditions.
+            This rich tapestry of cultures and customs is our source of strength,
+            and it reflects the unity that underlies our diversity.
+            Our festivals, such as Diwali, Eid, Christmas, and Holi,
+            are a testament to our collective spirit of celebration and togetherness.
+            They bring us closer, transcending boundaries and differences.
+            Our country’s history is a story of courage and resilience.
+            The struggle for independence,
+            led by visionary leaders like Mahatma Gandhi and Jawaharlal Nehru,
+            paved the way for our nation’s freedom. Today, we uphold the values of democracy, e
+            quality, and justice that form the core of our identity. In every region of our country,
+            there is a unique cultural heritage waiting to be discovered. Our cuisine,
+            diverse and flavorful, reflects our culinary prowess,
+            from spicy curries in the south to delectable chaats in the north.
+            Our country is not merely a place on the map; it’s a feeling,
+            a shared heritage, and a collective dream that unites us all.
+            It’s a reminder that in our diversity, we find our strength,
+            and in our unity, we find our identity.
+        </item>
+        <item>
+            Our country, a vast and diverse land, is a true marvel.
+            Geographically, it spans from the northern Himalayas,
+            where pristine snow-capped peaks touch the sky, to the
+            southern coastal regions, blessed with serene beaches and lush greenery.
+            Our country boasts a remarkable range of climates,
+            from the arid deserts of Rajasthan to the verdant rainforests of Kerala.
+            But what truly defines our country is its people. We are a nation of diversity,
+            with hundreds of languages, religions, and traditions.
+            This rich tapestry of cultures and customs is our source of strength,
+            and it reflects the unity that underlies our diversity.
+            Our festivals, such as Diwali, Eid, Christmas, and Holi,
+            are a testament to our collective spirit of celebration and togetherness.
+            They bring us closer, transcending boundaries and differences.
+            Our country’s history is a story of courage and resilience.
+            The struggle for independence,
+            led by visionary leaders like Mahatma Gandhi and Jawaharlal Nehru,
+            paved the way for our nation’s freedom. Today, we uphold the values of democracy, e
+            quality, and justice that form the core of our identity. In every region of our country,
+            there is a unique cultural heritage waiting to be discovered. Our cuisine,
+            diverse and flavorful, reflects our culinary prowess,
+            from spicy curries in the south to delectable chaats in the north.
+            Our country is not merely a place on the map; it’s a feeling,
+            a shared heritage, and a collective dream that unites us all.
+            It’s a reminder that in our diversity, we find our strength,
+            and in our unity, we find our identity.
+        </item>
+
+
+    </string-array>
+
 </resources>

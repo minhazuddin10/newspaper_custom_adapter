@@ -10,12 +10,13 @@ import android.widget.TextView;
 
 public class custom_adapter extends BaseAdapter {
 
-    public custom_adapter(Integer[] images, String[] title, String[] description, Activity context)
+    public custom_adapter(Integer[] images, String[] title, String[] description, Activity context, String[] details)
     {
         this.images = images;
         this.title = title;
         this.description = description;
         this.context = context;
+        this.details = details;
     }
 
     private final Integer [] images;
@@ -23,10 +24,12 @@ public class custom_adapter extends BaseAdapter {
     private final String[] description;
     private final Activity context;
 
+    private final String[] details;
+
     @Override
     public int getCount() {
 
-        return images.length;
+        return title.length;
     }
 
     @Override
@@ -48,11 +51,14 @@ public class custom_adapter extends BaseAdapter {
         ImageView flag=rowview.findViewById(R.id.imageViewID);
         TextView title1=rowview.findViewById(R.id.TitleID);
         TextView description1=rowview.findViewById(R.id.descriptionID);
+        TextView details1=rowview.findViewById(R.id.textdetails);
+
 
 
         flag.setImageResource(images[position]);
         title1.setText(title[position]);
         description1.setText(description[position]);
+        details1.setText(details[position]);
 
         return rowview;
     }
